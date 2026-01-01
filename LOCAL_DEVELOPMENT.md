@@ -1,4 +1,6 @@
 ---
+permalink: false
+sitemap: false
 ---
 
 # 本地开发环境配置指南
