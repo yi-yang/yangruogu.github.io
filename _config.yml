@@ -12,7 +12,7 @@ repository: "yi-yang/yi-yang.github.io"
 teaser: ""
 
 # Minimal Mistakes Theme Settings
-minimal_mistakes_skin: "mint"  # 有活力的薄荷绿主题
+minimal_mistakes_skin: "air"  # 清新的淡蓝色主题
 
 # Build settings
 markdown: kramdown
