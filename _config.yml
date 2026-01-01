@@ -116,3 +116,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - .gitignore
+  - LOCAL_DEVELOPMENT.md
