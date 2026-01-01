@@ -18,7 +18,9 @@
       "Bash(git ls-tree:*)",
       "Bash(cat:*)",
       "Bash(curl:*)",
-      "mcp__web-reader__webReader"
+      "mcp__web-reader__webReader",
+      "Bash(ruby:*)",
+      "Bash(jekyll:*)"
     ]
   }
 }
