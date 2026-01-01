@@ -48,16 +48,6 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ruogu.yang@126.com"
 
-# Navigation
-navigation:
-  main:
-    - title: "首页"
-      url: /
-    - title: "关于我"
-      url: /about/
-    - title: "文章"
-      url: /posts/
-
 # Plugins
 plugins:
   - jekyll-paginate

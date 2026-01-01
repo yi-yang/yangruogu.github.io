@@ -1,0 +1,8 @@
+# 主导航菜单
+main:
+  - title: "首页"
+    url: /
+  - title: "关于我"
+    url: /about/
+  - title: "文章"
+    url: /posts/
