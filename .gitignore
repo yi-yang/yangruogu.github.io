@@ -29,3 +29,6 @@ Thumbs.db
 *.swo
 *~
 .LOCAL_DEVELOPMENT.md.swp
+
+# Claude Code settings
+.claude/settings.local.json
