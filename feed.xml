@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yangruogu.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yangruogu.com/" rel="alternate" type="text/html" /><updated>2026-01-01T08:49:02-06:00</updated><id>https://yangruogu.com/feed.xml</id><title type="html">Ruogu Yang</title><subtitle>Personal website of Ruogu Yang</subtitle><author><name>Ruogu Yang</name><email>ruogu.yang@126.com</email></author><entry><title type="html">Welcome to My New Website</title><link href="https://yangruogu.com/update/2026/01/01/welcome-to-my-site.html" rel="alternate" type="text/html" title="Welcome to My New Website" /><published>2026-01-01T00:30:00-06:00</published><updated>2026-01-01T00:30:00-06:00</updated><id>https://yangruogu.com/update/2026/01/01/welcome-to-my-site</id><content type="html" xml:base="https://yangruogu.com/update/2026/01/01/welcome-to-my-site.html"><![CDATA[<p>Welcome to my new personal website powered by Jekyll and the Minimal Mistakes theme!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://yangruogu.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yangruogu.com/" rel="alternate" type="text/html" /><updated>2026-01-01T08:53:57-06:00</updated><id>https://yangruogu.com/feed.xml</id><title type="html">杨若谷的个人网站</title><subtitle>欢迎来到我的个人网站</subtitle><author><name>杨若谷</name><email>ruogu.yang@126.com</email></author><entry><title type="html">欢迎访问我的新网站</title><link href="https://yangruogu.com/%E6%9B%B4%E6%96%B0/2026/01/01/welcome-to-my-site.html" rel="alternate" type="text/html" title="欢迎访问我的新网站" /><published>2026-01-01T00:30:00-06:00</published><updated>2026-01-01T00:30:00-06:00</updated><id>https://yangruogu.com/%E6%9B%B4%E6%96%B0/2026/01/01/welcome-to-my-site</id><content type="html" xml:base="https://yangruogu.com/%E6%9B%B4%E6%96%B0/2026/01/01/welcome-to-my-site.html"><![CDATA[<p>欢迎来到我的新个人网站，采用 Jekyll 和 Minimal Mistakes 主题构建！</p>
 
-<p>I’m excited to share this new design with you. The website has been completely redesigned with a professional look and better user experience.</p>
+<p>很高兴与你分享这个全新设计。网站已经完全重新设计，拥有更专业的外观和更好的用户体验。</p>
 
-<h2 id="features">Features</h2>
+<h2 id="网站特色">网站特色</h2>
 
-<p>This new website includes:</p>
-
-<ul>
-  <li><strong>Responsive Design</strong>: Works great on desktop, tablet, and mobile devices</li>
-  <li><strong>Clean Layout</strong>: Easy to read and navigate</li>
-  <li><strong>Blog Section</strong>: Where I’ll share my thoughts and updates</li>
-  <li><strong>About Page</strong>: Learn more about me</li>
-</ul>
-
-<h2 id="whats-next">What’s Next</h2>
-
-<p>I’ll be adding more content soon, including:</p>
+<p>新网站包含以下功能：</p>
 
 <ul>
-  <li>Blog posts about my projects and interests</li>
-  <li>Portfolio section</li>
-  <li>More resources and links</li>
+  <li><strong>响应式设计</strong>：在桌面、平板和移动设备上都有出色的体验</li>
+  <li><strong>简洁布局</strong>：易于阅读和导航</li>
+  <li><strong>博客板块</strong>：我会在这里分享想法和更新</li>
+  <li><strong>关于页面</strong>：了解更多关于我的信息</li>
 </ul>
 
-<p>Stay tuned!</p>
+<h2 id="接下来的计划">接下来的计划</h2>
+
+<p>我很快会添加更多内容，包括：</p>
+
+<ul>
+  <li>关于我的项目和兴趣的博客文章</li>
+  <li>作品集展示</li>
+  <li>更多资源和链接</li>
+</ul>
+
+<p>敬请期待！</p>
 
 <hr />
 
-<p><em>Built with Jekyll and Minimal Mistakes theme</em></p>]]></content><author><name>Ruogu Yang</name><email>ruogu.yang@126.com</email></author><category term="update" /><category term="jekyll" /><category term="minimal mistakes" /><category term="update" /><summary type="html"><![CDATA[Welcome to my new personal website powered by Jekyll and the Minimal Mistakes theme!]]></summary></entry></feed>
+<p><em>由 Jekyll 和 Minimal Mistakes 主题构建</em></p>]]></content><author><name>杨若谷</name><email>ruogu.yang@126.com</email></author><category term="更新" /><category term="jekyll" /><category term="minimal mistakes" /><category term="网站更新" /><summary type="html"><![CDATA[欢迎来到我的新个人网站，采用 Jekyll 和 Minimal Mistakes 主题构建！]]></summary></entry></feed>
