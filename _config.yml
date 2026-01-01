@@ -1,12 +1,100 @@
-# Site settings
-title: Yang Ruogu's Personal Website
-description: Welcome to my personal website
+# Minimal Mistakes configuration
+
+# Site Settings
+locale: "en-US"
+title: "Ruogu Yang"
+title_separator: "-"
+name: "Ruogu Yang"
+description: "Personal website of Ruogu Yang"
+url: "https://yangruogu.com"
 baseurl: ""
-url: "https://yangruogu.github.io"
+repository: "yi-yang/yi-yang.github.io"
+teaser: ""
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+
+# SEO
+google_site_verification:
+
+# Social Sharing
+twitter:
+  username:
+
+# Site Author
+author:
+  name: "Ruogu Yang"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Welcome to my personal website"
+  location: "China"
+  email: "ruogu.yang@126.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ruogu.yang@126.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://yangruogu.com"
+
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ruogu.yang@126.com"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 # Exclude from processing
 exclude:
@@ -15,3 +103,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - .gitignore
