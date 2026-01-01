@@ -1,0 +1,17 @@
+# Site settings
+title: Yang Ruogu's Personal Website
+description: Welcome to my personal website
+baseurl: ""
+url: "https://yangruogu.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Exclude from processing
+exclude:
+  - .github/
+  - .git/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
